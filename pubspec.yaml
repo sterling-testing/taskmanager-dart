@@ -1,0 +1,14 @@
+name: taskmanager_sdk
+description: Generated SDK for Task Manager API
+version: 0.2.0
+repository: https://github.com/sterling-testing/taskmanager-dart
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  http: ^1.2.0
+
+dev_dependencies:
+  test: ^1.25.0
+  lints: ^5.0.0
